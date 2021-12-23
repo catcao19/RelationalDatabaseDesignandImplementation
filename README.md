@@ -8,3 +8,4 @@
 - Used SQL to present an additional separate report for royalty commissions received from leased offices for Accounting Department
 - Used SQL to present which locations are the most efficient (defined as commissions generated per employee) or the most profitable (collects the highest real estate commission percentages) for the Management Department
 - Proposed future extensions to the current database work that may help Realtek maintain its competitive advantage in the market
+- Please read GroupCase.pdf for regarding information first
